@@ -22,14 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img width="144" alt="Screenshot 2022-08-18 154320" src="https://user-images.githubusercontent.com/60580054/185632644-4488679d-d883-479b-9e1f-bcef922ba22a.png">
+<img width="650" alt="Screenshot 2022-08-18 154412" src="https://user-images.githubusercontent.com/60580054/185632746-d1f09dde-d5a3-4b0d-bf2c-58938ca6f49b.png">
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LiceCap](http://www.cockos.com/licecap/).  
-<!-- Other options include:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
