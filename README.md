@@ -12,6 +12,10 @@ Here's a walkthrough of implemented features:
 
 https://user-images.githubusercontent.com/60580054/185690184-974fddd8-225a-4e36-91c8-9ff2b9d50e9e.mp4
 
+Function implemented on the video:
+1. Image and introductory message displayed on screen
+2. Button displayed on screen
+3. Toast with message appears when button is pressed
 
 ## License
 
