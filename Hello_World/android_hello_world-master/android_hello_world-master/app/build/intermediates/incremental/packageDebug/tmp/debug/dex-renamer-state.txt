@@ -1,0 +1,7 @@
+#Wed Aug 17 13:50:29 EDT 2022
+base.1=C\:\\Users\\xiang\\Android\\Hello_World\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+path.1=1/classes.dex
+base.0=C\:\\Users\\xiang\\Android\\Hello_World\\android_hello_world-master\\android_hello_world-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
