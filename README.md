@@ -22,8 +22,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img width="144" alt="Screenshot 2022-08-18 154320" src="https://user-images.githubusercontent.com/60580054/185632644-4488679d-d883-479b-9e1f-bcef922ba22a.png">
-<img width="650" alt="Screenshot 2022-08-18 154412" src="https://user-images.githubusercontent.com/60580054/185632746-d1f09dde-d5a3-4b0d-bf2c-58938ca6f49b.png">
+
+
+https://user-images.githubusercontent.com/60580054/185690184-974fddd8-225a-4e36-91c8-9ff2b9d50e9e.mp4
+
 
 
 ## Notes
